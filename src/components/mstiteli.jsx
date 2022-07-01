@@ -1,7 +1,7 @@
 
 
 
-export function Mstitels(props) {
+function Mstitels(props) {
     return (
         <div className="card">
             <div className="card-body">
